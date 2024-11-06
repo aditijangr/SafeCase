@@ -16,7 +16,17 @@ To start using SafeCase, you need:
 
 - HiveKeychain installed in the browser.
 - A Hive blockchain account.
-- [IPFS](https://ipfs.io/) installed 
+- [IPFS](https://ipfs.io/) installed
+
+### Technologies used
+
+- Dhive library
+- IPFS
+- HTML
+- CSS
+- Javascript
+- Nodejs
+
 
 ### Installation
 
