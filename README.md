@@ -25,13 +25,17 @@ To start using SafeCase, you need:
 git clone https://github.com/username/SafeCase.git
 cd SafeCase
 
-Run the Application
+#### Run the Application
+
 ```bash
 Copy code
 npm start
 
-Technologies Used
+## Technologies Used
 
-Hive Blockchain: Utilized for recording an immutable history of image edits and uploads, ensuring transparency and integrity of the media provenance.
-IPFS (InterPlanetary File System): Provides decentralized storage for images, guaranteeing secure, tamper-proof media files that are resistant to censorship.
-Node.js: Employed for server-side JavaScript, handling API requests and managing backend operations efficiently.
+- **[Hive Blockchain](https://hive.io/)**: Utilized for recording an immutable history of image edits and uploads, ensuring transparency and integrity of the media provenance.
+
+- **[IPFS (InterPlanetary File System)](https://ipfs.io/)**: Provides decentralized storage for images, guaranteeing secure, tamper-proof media files that are resistant to censorship.
+
+- **[Node.js](https://nodejs.org/)**: Employed for server-side JavaScript, handling API requests and managing backend operations efficiently.
+
