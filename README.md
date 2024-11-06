@@ -23,7 +23,7 @@ To start using SafeCase, you need:
 
 - An internet connection.
 - A Hive blockchain account.
-- [IPFS](https://ipfs.io/) installed (for local development, if applicable).
+- [IPFS](https://ipfs.io/) installed 
 
 ### Installation
 
