@@ -31,7 +31,7 @@ cd SafeCase
 Copy code
 npm start
 
-## Technologies Used
+#### Clone the Repository
 
 - **[Hive Blockchain](https://hive.io/)**: Utilized for recording an immutable history of image edits and uploads, ensuring transparency and integrity of the media provenance.
 
